@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T10:34:01.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" version="14.7.6" etag="1ruL8kVm-1ALuTzPVP57" type="github"><diagram id="AZEMbS8nSUuNRy1sVr3k">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-17T02:42:39.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="v7INLFQVbdUwl_UKqwlp" version="14.7.6" type="github">
+  <diagram id="AZEMbS8nSUuNRy1sVr3k" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sHkAEs4xwrB7Cxy2jHXL-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="390" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sHkAEs4xwrB7Cxy2jHXL-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="205" y="500" width="380" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sHkAEs4xwrB7Cxy2jHXL-6" value="&lt;b style=&quot;font-family: &amp;#34;roboto&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;IAV_PART_BLUR&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280.5" y="420" width="229" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sHkAEs4xwrB7Cxy2jHXL-8" value="&lt;b style=&quot;font-family: &amp;#34;roboto&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;IAV_PART_ARB_BLUR&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280.5" y="640" width="229" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sHkAEs4xwrB7Cxy2jHXL-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sHkAEs4xwrB7Cxy2jHXL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sHkAEs4xwrB7Cxy2jHXL-12" target="sHkAEs4xwrB7Cxy2jHXL-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="470" />
+              <mxPoint x="265" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHkAEs4xwrB7Cxy2jHXL-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="205" y="500" width="125" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sHkAEs4xwrB7Cxy2jHXL-9" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="205" y="525" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sHkAEs4xwrB7Cxy2jHXL-17" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Mapped&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="450" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sHkAEs4xwrB7Cxy2jHXL-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="200" y="70" width="390" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sHkAEs4xwrB7Cxy2jHXL-23" value="&lt;b style=&quot;font-family: &amp;#34;roboto&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Color table&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="210" width="229" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sHkAEs4xwrB7Cxy2jHXL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.154;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sHkAEs4xwrB7Cxy2jHXL-24" target="sHkAEs4xwrB7Cxy2jHXL-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sHkAEs4xwrB7Cxy2jHXL-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="200" y="70" width="40" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sHkAEs4xwrB7Cxy2jHXL-25" value="&lt;b style=&quot;font-family: &amp;#34;roboto&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;blue&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105.5" y="40" width="229" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sHkAEs4xwrB7Cxy2jHXL-27" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Mapped&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sHkAEs4xwrB7Cxy2jHXL-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="240" y="70" width="40" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sHkAEs4xwrB7Cxy2jHXL-29" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Fist set color table which can contain 16 colors, then set the area size to display. If you want to display arbtrary blur , you need to set arbtrary blur memory.&amp;nbsp;&amp;nbsp;&amp;nbsp;arbtrary blur memory data&amp;nbsp; 1 bit corresponding to blur memory data 8 bit, for example , the blur memory data&amp;nbsp;size is 80 X 80, then the blur memory data size is 10 X 10;&amp;nbsp; arbtrary blur memory data is used to display blure by set the data 0, set 1 is opposite.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="216" y="660" width="395" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="sHkAEs4xwrB7Cxy2jHXL-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sHkAEs4xwrB7Cxy2jHXL-30" target="sHkAEs4xwrB7Cxy2jHXL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sHkAEs4xwrB7Cxy2jHXL-30" value="&lt;font style=&quot;font-size: 14px&quot;&gt;The data of tgriangle region is setted to 1 to display blur&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="565" width="140" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
